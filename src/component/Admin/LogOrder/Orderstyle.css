@@ -1,0 +1,130 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif
+  }
+  
+  body {
+    overflow-y: scroll;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .accordion {
+    font-size: 17px;
+    margin: 0 20px;
+  }
+  
+  .accordion__button {
+    border: 0;
+    margin: 10px 0;
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: inherit;
+  }
+  
+  .accordion__button span {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    background: #000;
+    font-size: 15px;
+  }
+  
+  .accordion__button:focus {
+    outline: none;
+  }
+  
+  .accordion__content {
+    padding: 0 20px;
+    opacity: 0;
+    transition: all .5s;
+    height: 0;
+    margin: 0;
+    margin-top: -10px;
+    border: 1px solid #f1f1f1;
+    border-top: 0;
+  }
+  
+  .accordion__content.active {
+      height: auto;
+      opacity: 1;
+      padding: 20px;
+  }
+  
+
+  /* style Aco2 */
+  svg{
+    width: 1.25rem;
+    height: 1.25rem;
+    
+   }
+ 
+   .maintoggle{
+     padding: 2rem;
+   }
+  .ico{
+    
+    margin-left: 1rem;
+    padding: 0.5rem;
+    background: white;
+    border-radius: 10px;
+    border:1px solid green;
+    color: green;
+  }
+  .icotext{
+    margin-left: 1rem;
+  }
+  .icof{
+    margin-left: 1rem;
+  }
+  .css-11xur9t-MuiPaper-root-MuiTableContainer-root{
+    background-color:  inherit !important;
+    width: 95% !important;
+    margin-left: 1.5rem;
+  }
+
+.css-1bhpkcd-MuiTableCell-root.MuiTableCell-body{
+  padding-right: 4.5rem;
+}
+.css-1nslmh4-MuiTableCell-root.MuiTableCell-head{
+  padding-right: 4rem;
+  background-color:  #fff !important;
+  color:#000  !important;
+ 
+
+}
+.css-1wvnaxz-MuiTableCell-root.MuiTableCell-head {
+  background-color:  #fff !important;
+  color:#000  !important;
+}
+.css-og52vs-MuiTableCell-root.MuiTableCell-head {
+  background-color: #fff !important;
+  color: #000 !important;
+}
+
+.css-hlj6pa-MuiDialogActions-root{
+  -webkit-box-pack: center !important;
+
+    -webkit-justify-content: center !important;
+    justify-content: center !important;
+  font-size: 2rem;
+}
+.css-i4bv87-MuiSvgIcon-root {
+  justify-content: flex-end !important;
+  font-size: 2rem ;
+}
+  

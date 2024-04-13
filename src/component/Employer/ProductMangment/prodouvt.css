@@ -1,0 +1,16 @@
+
+
+.css-11bfvty-MuiToolbar-root-MuiTablePagination-toolbar{
+    border-top: 1px solid black;
+}
+.css-11bfvty-MuiToolbar-root-MuiTablePagination-toolbar{
+    min-height: 3.5rem !important;
+}
+.css-1fw5qro-MuiPaper-root{
+    position: relative !important;
+
+}
+.uplodbtn{
+    position:absolute !important ;
+    bottom: 0.5rem !important;
+ }

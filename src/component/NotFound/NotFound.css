@@ -1,0 +1,18 @@
+.not{
+   height: 40%;
+    text-align: center;
+    z-index: 100;
+}
+
+.hnot{
+    font-size: 8rem;
+    font-weight: bold;
+    color: red;
+  
+    margin-top: 15%;
+
+}
+.pnot{
+    margin-top: 3rem;
+    font-size: 3rem;
+}

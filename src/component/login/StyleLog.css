@@ -1,0 +1,72 @@
+
+h4 {
+  color: #3751fe;
+  margin: 50px 50px 30px 50px;
+  font-weight: bold;
+}
+
+h2 {
+  color: #3751fe;
+  margin-right: 50px;
+  margin-left: 50px;
+  font-weight: bold;
+}
+p{
+  margin-left: 50px;
+}
+
+a {
+  text-decoration: none;
+}
+.Left{
+  height: 100vh;
+  background:#eeeeeece ;
+}
+.Right{
+  height: 100vh
+  
+  
+}
+img{
+  width: 80%;
+  margin-left: 4rem;
+}
+
+
+form {
+  margin-left: 3rem;
+}
+
+
+
+.alertlink {
+  color: rgba(29, 27, 27, 0.555) !important;
+}
+
+.alert-primary {
+  color: unset;
+  background-color: unset;
+  border-color: unset;
+}
+
+.alert {
+  border: unset;
+}
+
+.alert-primary .alert-link {
+  color: rgba(29, 27, 27, 0.555);
+}
+
+.nav {
+  margin-top: 50px;
+}
+
+.itemHome {
+  margin-left: 10rem;
+}
+
+.itemShopify {
+  margin-left: 3rem;
+}
+
+

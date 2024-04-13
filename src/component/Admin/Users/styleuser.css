@@ -1,0 +1,50 @@
+.useb{
+ margin-left: 90%;
+ text-align: center;
+ position: absolute;
+ bottom: 0.8rem;
+  
+ 
+}
+.maintitle{
+    margin-left: 2rem;
+}
+.addpage{
+    margin-top: 1em;
+}
+
+.add > span{
+    margin-top: 0.75rem;
+    margin-left: 0.18rem;
+    font-size: 1.5rem;
+   
+ 
+}
+.imgadd {
+    width: 100%;
+    height: 100%;
+    margin-left: 1rem;
+   box-sizing:border-box ;
+   cursor: pointer;
+}
+.form-control{
+    border-radius: 0.5rem;
+    border:1px solid rgb(163, 163, 163) !important  ;
+}
+.inpu{
+    display:none ;
+}
+
+.css-11bfvty-MuiToolbar-root-MuiTablePagination-toolbar{
+    padding-right: 20rem !important;
+}
+
+.css-dwuj3p-MuiTableCell-root{
+    background:#DFDCDC  !important  ;
+}
+
+.css-k4d6yz-MuiButtonBase-root-MuiFab-root{
+    font-size: 0.770rem !important;
+    height: 1.5rem !important;
+    width: 4rem !important;
+}
